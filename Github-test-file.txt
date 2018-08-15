@@ -1,6 +1,6 @@
 Github test file
-aaaaaa
-bbbbbb branch1: dsdfsf
+branch2: efef aaaaaa
+bbbbbb branch1: dsdfsf   branch2: efef
 cccccc
 
 branch1: b111111
